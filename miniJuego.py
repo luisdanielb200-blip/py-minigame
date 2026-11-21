@@ -296,4 +296,4 @@ class Juego:
 
 
 juego = Juego()
-juego.iniciar()
+juego.iniciar() 
